@@ -9,5 +9,5 @@ After working as a Mechanical Engineer for 6 years I decided to make a big caree
 ⚡ Fun fact: 7 8 9
 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![plot](./home/dimi/Downloads/kindpng_3240050.png)
 
