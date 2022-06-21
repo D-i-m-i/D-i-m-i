@@ -8,6 +8,7 @@ After working as a Mechanical Engineer for 6 years I decided to make a big caree
 
 ⚡ Fun fact: 7 8 9
 
+![plot](/home/dimi/Downloads/kindpng_3240050.png)
 
 ![plot](./home/dimi/Downloads/kindpng_3240050.png)
 
