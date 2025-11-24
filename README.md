@@ -1,6 +1,6 @@
 Hi all 👋
 
-After working as a Mechanical Engineer for 6 years I have decided to make a career change into Software Development.
+I am a Software Engineer, having previously worked as a Mechanical Engineer manufacturing car engines and involved in innovative product development and patent analysis.
 
 📫 How to reach me: https://www.linkedin.com/in/dimi/ OR demetristz@outlook.com 
 
