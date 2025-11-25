@@ -1,6 +1,6 @@
 Hi all 👋
 
-I am a Software Engineer, having previously worked as a Mechanical Engineer manufacturing car engines and involved in innovative product development and patent analysis.
+Software Engineer with previous experience as a Mechanical Engineer manufacturing car engines, developing innovative products and performing patents analysis.
 
 📫 How to reach me: https://www.linkedin.com/in/dimi/ OR demetristz@outlook.com 
 
